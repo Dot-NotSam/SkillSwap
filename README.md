@@ -20,7 +20,6 @@ Find your match. Share what you know. Learn something new.
 - 📈 **Top Skills Summary:** Highlights most frequently offered skills.
 - 🎉 **Clean & Responsive UI:** Looks good on every screen, big or small.
 
----
 <!--
 ## 📸 Preview
 
